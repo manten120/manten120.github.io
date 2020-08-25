@@ -1,0 +1,27 @@
+{
+  "name": "manten120.github.io",
+  "version": "1.0.0",
+  "description": "Git Hub Pages with Next.js",
+  "main": "pages/index",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manten120/manten120.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manten120/manten120.github.io/issues"
+  },
+  "homepage": "https://github.com/manten120/manten120.github.io#readme",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
