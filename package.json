@@ -2,7 +2,7 @@
   "name": "manten120.github.io",
   "version": "1.0.0",
   "description": "Git Hub Pages with Next.js",
-  "main": "pages/index",
+  "main": "pages/index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
